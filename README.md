@@ -1,2 +1,2 @@
 # OOPJ-Project-
-Fitness Tracking Project
+Fitness Tracker 
