@@ -9,7 +9,7 @@ public class user {
     double height;
     double weight;
     char gender;
-
+// hi
     public user(String n, int a, double h, double w, char g) {
         this.name = n;
         this.age = a;
